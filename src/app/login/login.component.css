@@ -1,0 +1,12 @@
+.Button {
+  padding: 1.5rem 2rem;
+  border: 0;
+  color: var(--color-3);
+  font-size: 1.2rem;
+  font-weight: bold;
+  background: #2af598;
+  border-radius: 7px;
+  transition: all 0.2s;
+  cursor: pointer;
+  box-shadow: 0 1.75rem 2rem -0.4rem rgba(50,0,100,0.15);
+}
